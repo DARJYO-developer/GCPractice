@@ -2191,7 +2191,7 @@
         ],
         datasources: [
           {
-            path: '/qwiklabs-gcp-01-5fff0d8d2306/ecommerce/all_sessions_raw_dataprep/16907538',
+            path: '/qwiklabs-gcp-04-bfbca6322139/ecommerce/all_sessions_raw_dataprep/16907538',
             bucket: null,
             userinfo: null,
             type: 'bigquery',
@@ -2215,7 +2215,7 @@
             parsingScriptId: 7766021,
             relationalsource: {
               relationalPath: [
-                'qwiklabs-gcp-01-5fff0d8d2306',
+                'qwiklabs-gcp-04-bfbca6322139',
                 'ecommerce',
               ],
               columns: [
@@ -2260,7 +2260,7 @@
             storageLocation: {
               fullUri: '{"protocol":"bigquery"}',
               id: 34541274,
-              path: '/qwiklabs-gcp-01-5fff0d8d2306/ecommerce/all_sessions_raw_dataprep/16907538',
+              path: '/qwiklabs-gcp-04-bfbca6322139/ecommerce/all_sessions_raw_dataprep/16907538',
               size: 16907538,
               type: 'bigquery',
               bucket: null,
